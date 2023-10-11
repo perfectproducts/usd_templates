@@ -1,35 +1,6 @@
-# Chapter 1Z
-huhu
-## Section 1
+# Introduction
 
-## Section 2
-
-# Chapter 2
-
-## Section 1
-
-## Section 2
-
-# Chapter 3
-
-## Section 1
-
-## Section 2
-
-# Chapter 4
-
-## Section 1
-
-## Section 2
-
-# Chapter 5
-
-## Section 1
-
-## Section 2
-
-# Chapter 6
-
-## Section 1
-
-## Section 2
+Brief on the Metaverse and its industrial applications.
+The role of OpenUSD in the metaverse.
+The importance of templating and standardizing assets.
+Overview of the book.
