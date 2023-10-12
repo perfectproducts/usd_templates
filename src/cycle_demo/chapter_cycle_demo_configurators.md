@@ -36,5 +36,6 @@ First a step by step guide on how to set up a product configurator:
 8. Open the Configurator Panel with Tools/Product Configurator/Panel
 
 9. If you wish you can download our configurator_P3_basicbike or configurator_P2_unicycle
+    - [configurator_P3_basicbike](https://github.com/perfectproducts/usd_templates/raw/main/src/cycle_demo/assets/configurators/configurator_P3_basicbike.usd)
 
 That is all it takes to make the configurator work.
