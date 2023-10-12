@@ -1,41 +1,44 @@
 # Product Configurators
 
-We are going to Explain and show how the configurator works based on two examples:
+In this chapter we are going to explain and show how the configurator works based on an example. We are going to use the bicycle from the previous chapter together with the product configurator. If you haven´t downloaded it yet please do so now:
 
-1. bicycle configurator
-2. unicycle configurator
+1. [product_P3_basicbike](https://github.com/perfectproducts/usd_templates/blob/main/src/cycle_demo/assets/products/product_P3_basicbike.zip)
 
-First a step by step guide on how to set up a product configurator:
+First a step by step guide on how to set up the product configurator:
 
 1. Enable the product configurator extension in Nvidia Omniverse
 
-2. Create a "configurators" folder
+![Product Configurator Extension](assets/imgs/product_config_extension.png)
 
-3. Download the following requirements which the extension is going to use and paste them into the "configurators" folder:
-    - link to DataStructure
-    - link to Assets
-    - link to empty configurator scene
+2. Download the following requirements so that the extension works and paste them into the "configurators" folder:
+    - link to DataStructure Folder
+    - link to Assets Folder
 
-4. Open the empty configurator scene in Omniverse Usd-Composer
+3. Open the empty configurator scene in Omniverse Usd-Composer
 
-5. Add a reference to your product you would like to configure under the ConfigurableAssets Scope Folder
-    - You can download our product_P3_bicycle or product_P2_unicycle if you like
-    - If you use your own: your products must contain variant sets and variants for the configurator to work
+4. Add a reference to your product you would like to configure under the Configurable_Assets Scope Folder
+    - Navigate to **products/product_P3_basicbike** and drag the **product_P3_basicbike.usd** on the Configurable_Assets Scope. (Configuarble_Assets is parent of product_P3_basicbike)
+    - You should see the bike in your Scene
 
-6. In Tools/Product Configurator/Utilities select "Create DataStructure"
-    - The first input field needs the path to the DataStructure/Prims folder.
-    - The second input field needs the path to the DataStructure/Graphs folder.
-    - Click on create and the necessary files and action graphs for the extension to work will be generated
+5. In Tools/Product Configurator/Utilities select "Create DataStructure"
+    - The first input field needs the path to the DataStructure/Prims folder (added in step 2).
+    - The second input field needs the path to the DataStructure/Graphs folder (added in step 2).
+    - Click on "Create Data Structure" and the necessary files and action graphs for the extension to work will be generated
 
-7.  Now we need to enable the actual change between different variations in our product:
+6.  Now we need to enable the actual change between different variations in our product:
     - In the Stage window find the Graphs Scope Folder
     - Search for every Graph which starts with "variantController"
     - Unfold it and search for the set_variant_selection_01 prim
     - In the property window --> mark "Set Variant" as true
 
-8. Open the Configurator Panel with Tools/Product Configurator/Panel
+![Set Variant](assets/imgs/set_variant.png)
 
-9. If you wish you can download our configurator_P3_basicbike or configurator_P2_unicycle
+7. Open the Configurator Panel with Tools/Product Configurator/Panel
+    - Now you can switch between the different variants of your bicycle 
+
+8. If you wish you can download our configurator_P3_basicbike or configurator_P2_unicycle
     - [configurator_P3_basicbike](https://github.com/perfectproducts/usd_templates/raw/main/src/cycle_demo/assets/configurators/configurator_P3_basicbike.usd)
+
+![Configurator Basicbike](assets/imgs/configurator_P3_basicbike.png)
 
 That is all it takes to make the configurator work.

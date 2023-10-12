@@ -13,8 +13,10 @@ A Variant Set is like a category or a grouping of related variations. For the bi
 ## Variants:
 
 Variants are the individual options within a Variant Set.
-For the "Color" Variant Set, you could have Variants like "Red", "Blue", and "Green".
-For the "Tires" Variant Set, you could have Variants like "Road Tires", "Mountain Tires", and "Hybrid Tires".
-For the "Handlebars" Variant Set, you could have Variants like "Drop Handlebars", "Flat Handlebars", and "Bullhorn Handlebars".
-For the "Accessories" Variant Set, you could have Variants like "Basket", "Bell", or "None" (if no accessories are added).
+
+- For the "Color" Variant Set, you could have Variants like "Red", "Blue", and "Green".
+- For the "Tires" Variant Set, you could have Variants like "Road Tires", "Mountain Tires", and "Hybrid Tires".
+- For the "Handlebars" Variant Set, you could have Variants like "Drop Handlebars", "Flat Handlebars", and "Bullhorn Handlebars".
+- For the "Accessories" Variant Set, you could have Variants like "Basket", "Bell", or "None" (if no accessories are added).
+
 In Nvidia Omniverse, using USD, you would create Variant Sets and Variants to easily switch between these different configurations of the bicycle model. This way, you can manage and visualize the different variations of the bicycle without having to manage multiple separate models.
