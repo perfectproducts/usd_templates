@@ -1,6 +1,11 @@
-# Introduction
+# Cycle Scenario 
 
-Brief on the Metaverse and its industrial applications.
-The role of OpenUSD in the metaverse.
-The importance of templating and standardizing assets.
-Overview of the book.
+Scenario to illustrate all OpenUSD-template components and how to use them in a holistic digital twin environment. 
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
