@@ -27,5 +27,6 @@ editable = true
 enable = false
 
 [output.theme-ace]
+optional = true
 theme-white = "xcode"
 theme-dark = "monokai"
