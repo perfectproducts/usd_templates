@@ -9,6 +9,9 @@ title = "OpenUSD Templates for the Industrial Metaverse"
 pagetoc = true
 sidebar-width = "250px"
 
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
 [output.html]
 default-theme = "ayu"
 additional-js = ["theme/pagetoc.js", "mermaid.min.js", "mermaid-init.js"]
