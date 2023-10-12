@@ -1,5 +1,5 @@
 [book]
-authors = ["Michael Wagner <michael.wagner@synctwin.ai>", "Thomas Bernhard <thomas.bernhard@ipolog.ai>"]
+authors = ["Michael Wagner <michael.wagner@synctwin.ai>", "Thomas Bernhard <thomas.bernhard@synctwin.ai>"]
 language = "en"
 multilingual = false
 src = "src"
