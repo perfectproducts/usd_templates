@@ -11,6 +11,6 @@ If you open the product_P3_basicbike.usd in your Omniverse Usd Composer you are 
 
 The bicycle should look something like this:
 
-![product_P3_basicbike](assets/imgs/product_P3_basicbike.png)
+![product_P3_basicbike](assets/imgs/product_P3_basicbike.PNG)
 
 In the following chapter we are going to have a closer look at the product configurator itself.

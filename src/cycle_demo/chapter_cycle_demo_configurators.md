@@ -8,7 +8,7 @@ First a step by step guide on how to set up the product configurator:
 
 1. Enable the product configurator extension in Nvidia Omniverse
 
-![Product Configurator Extension](assets/imgs/product_config_extension.png)
+![Product Configurator Extension](assets/imgs/product_config_extension.PNG)
 
 2. Inside the repository are the following requirements so that the extension works:
     - **/src/cycle_demo/assets/configurators/Assets**: In this folder is a camera and the background asset stored for the scene.
@@ -31,7 +31,7 @@ First a step by step guide on how to set up the product configurator:
     - Unfold it and search for the set_variant_selection_01 prim
     - In the property window --> mark "Set Variant" as true
 
-![Set Variant](assets/imgs/setvariant.png)
+![Set Variant](assets/imgs/setvariant.PNG)
 
 7. Open the Configurator Panel with Tools/Product Configurator/Panel
     - Now you can switch between the different variants of your bicycle 
@@ -39,6 +39,6 @@ First a step by step guide on how to set up the product configurator:
 8. If you wish you can have a look at our prepared configurators: configurator_P3_basicbike or configurator_P2_unicycle
     - **/src/cycle_demo/assets/configurators/configurator_P3_basicbike.usd**
 
-![Configurator Basicbike](assets/imgs/configurator_P3_basicbike.png)
+![Configurator Basicbike](assets/imgs/configurator_P3_basicbike.PNG)
 
 That is all it takes to make the configurator work.
