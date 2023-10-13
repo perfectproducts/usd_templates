@@ -11,10 +11,10 @@ First a step by step guide on how to set up the product configurator:
 ![Product Configurator Extension](assets/imgs/product_config_extension.png)
 
 2. Download the following requirements so that the extension works and paste them into the "configurators" folder:
-    - link to DataStructure Folder
-    - link to Assets Folder
+    - [Assets](https://github.com/perfectproducts/usd_templates/blob/main/src/cycle_demo/assets/configurators/Assets.zip)
+    - [Data Structure](https://github.com/perfectproducts/usd_templates/blob/main/src/cycle_demo/assets/configurators/DataStructure.zip)
 
-3. Open the empty configurator scene in Omniverse Usd-Composer
+3. Open the empty_configurator.usd  you can find in your Data Structure Folder in Omniverse Usd-Composer.
 
 4. Add a reference to your product you would like to configure under the Configurable_Assets Scope Folder
     - Navigate to **products/product_P3_basicbike** and drag the **product_P3_basicbike.usd** on the Configurable_Assets Scope. (Configuarble_Assets is parent of product_P3_basicbike)
@@ -31,7 +31,7 @@ First a step by step guide on how to set up the product configurator:
     - Unfold it and search for the set_variant_selection_01 prim
     - In the property window --> mark "Set Variant" as true
 
-![Set Variant](assets/imgs/set_variant.png)
+![Set Variant](assets/imgs/setvariant.png)
 
 7. Open the Configurator Panel with Tools/Product Configurator/Panel
     - Now you can switch between the different variants of your bicycle 
