@@ -1,0 +1,73 @@
+{
+    "OperationTag": {
+        "version": 1,
+        "description": "",
+        "language": "Python",
+        "metadata": {
+            "uiName": "Operation"
+        },
+        "inputs": {
+            "worker_requirements": {
+                "type": "any",
+                "description": "",
+                "metadata": {
+                    "uiName": "worker_requirements"
+                }
+            },
+            "parts_requirements": {
+                "type": "any",
+                "description": "",
+                "metadata": {
+                    "uiName": "parts_requirements"
+                }
+            },
+            "station_requirements": {
+                "type": "any",
+                "description": "",
+                "metadata": {
+                    "uiName": "station_requirements"
+                }
+            },
+            "name": {
+                "type": "string",
+                "description": "",
+                "metadata": {
+                    "uiName": "name"
+                },
+                "default": ""
+            },
+            "precessor": {
+                "type": "string",
+                "description": "",
+                "default": "",
+                "metadata": {
+                    "uiName": "precessor"
+                }
+            },
+            "duration": {
+                "type": "float",
+                "description": "",
+                "default": 0,
+                "metadata": {
+                    "uiName": "duration"
+                }
+            },
+            "type": {
+                "type": "string",
+                "description": "",
+                "metadata": {
+                    "uiName": "type"
+                },
+                "default": ""
+            },
+            "description": {
+                "type": "string",
+                "description": "",
+                "metadata": {
+                    "uiName": "description"
+                },
+                "default": ""
+            }
+        }
+    }
+}
