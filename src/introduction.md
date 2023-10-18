@@ -1,12 +1,10 @@
 # Introduction
 
 <img src="./assets/img/synctwinlogo.png" width="10%" height="10%">
+* WORK IN PROGRESS*
 
-- What is the Industrial Metaverse 
+- What is the Industrial Metaverse
 - The role of OpenUSD in the Industrial Metaverse.
 - The importance of templating and standardizing assets.
-- Workflows and the Digital Twin Operator 
-- The SyncTwin Omniverse App 
-
-
- 
+- Workflows and the Digital Twin Operator
+- The SyncTwin Omniverse App
