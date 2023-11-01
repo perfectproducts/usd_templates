@@ -1,10 +1,5 @@
 # Introduction
 
-<img src="./assets/img/synctwinlogo.png" width="10%" height="10%">
-* WORK IN PROGRESS*
+In the rapidly evolving landscape of advanced manufacturing, the **Industrial Metaverse** stands out as a cohesive digital representation of machinery, processes, and operations, facilitating real-time simulations and optimizations. At its core is **OpenUSD** (Universal Scene Description), not just a 3D standard but a dynamic tool ensuring seamless interoperability of digital assets across platforms and enriched with essential metadata. Ensuring consistency within this digital realm is the process of **templating and standardizing assets**, which fosters streamlined design, deployment, and developmental activities. This book aims to support the **TwinOps Engineer**, the mastermind behind creating and operating a synchronized digital factory twin using apps like the Omniverse native **SyncTwin App**. Following this introduction, we delve into the intricacies of **USD templates**, their attributes, and conclude with a hands-on demonstration of how a TwinOp seamlessly crafts a comprehensive digital factory twin using the tools and techniques discussed.
 
-- What is the Industrial Metaverse
-- The role of OpenUSD in the Industrial Metaverse.
-- The importance of templating and standardizing assets.
-- Workflows and the Digital Twin Operator
-- The SyncTwin Omniverse App
+<img src="assets/img/synctwinlogo.png" alt="logo" width="20"/> &copy; SyncTwin GmbH 2023

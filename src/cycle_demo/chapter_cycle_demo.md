@@ -1,4 +1,4 @@
-# Cycle Demo
+# End-To-End Workflow
 
 In this chapter, we delve into a demonstrative scenario illustrating the dynamic capabilities of the product configurator within the industrial metaverse. Through a simple yet relatable use case based on bicycles and unicycles, we aim to bridge the complex world of digital twinning with everyday understanding.
 
