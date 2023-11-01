@@ -19,6 +19,8 @@
 	- [Worker Scheduling](./cycle_demo/worker_scheduling.md)
 	- [Logistics Scheduling](./cycle_demo/logistics_scheduling.md)
 	- [Projects](./cycle_demo/projects.md)
+	- [Live Data Update](./cycle_demo/live_updates.md)
+	- [Scenarios](./cycle_demo/scenarios.md)
 	
 	
 - [Reference](./reference_overview.md)
