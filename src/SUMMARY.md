@@ -4,7 +4,7 @@
 
 - [The Industrial Metaverse](./industrial_metaverse/overview.md)
 
-- [TwinOps](./industrial_metaverse/twinops.md)
+- [TwinOps](./twinops/overview.md)
 
 	
 
