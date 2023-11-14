@@ -7,4 +7,4 @@ Digital Twin Operations (TwinOps): The systematic process of creating, managing,
 ## TwinOps Engineer
 Meet Alex, the TwinOps Engineer who crafts and manages the factory's digital twin with precision, utilizing the SyncTwin App.
 
-<img src="assets/twinops_engineer_alex.png" alt="Alex Twin Ops Engineer" width="50%"/>
+<img src="assets/twinops_engineer_alex.png" alt="Alex Twin Ops Engineer" width="25%"/>
