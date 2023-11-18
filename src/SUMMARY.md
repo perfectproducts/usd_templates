@@ -11,8 +11,9 @@
 
 
 - [End To End Workflow](./cycle_demo/chapter_cycle_demo.md)
-    - [Products](./cycle_demo/chapter_cycle_demo_products.md)
-    - [Product Configurators](./cycle_demo/chapter_cycle_demo_configurators.md)
+	- [Topology](./cycle_demo/topology.md)
+	- [Products](./cycle_demo/chapter_cycle_demo_products.md)
+	- [Product Configurators](./cycle_demo/chapter_cycle_demo_configurators.md)
 	- [Assembly Process](./cycle_demo/process.md)
 	- [Production Program](./cycle_demo/production_program.md)
 	- [Production Scheduling](./cycle_demo/production_schedule.md)
