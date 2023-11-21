@@ -12,7 +12,7 @@ Digital Twin Operations (TwinOps): The systematic process of creating, managing,
 | Persona | Role | Description |
 |:----:|:--------|:------------|
 |![Alex](assets/twinops_engineer_alex.png)| **Alex** <br/> *Twin Ops Engineer* | Alex is a TwinOps Engineer who expertly maintains the factory's digital twin, building reliable data pipelines based on OpenUSD and using an array of tools, with the SyncTwin Omniverse App being a vital component in her toolkit.|
-|![CEO](assets/ceo_management_kim.png)| **Kim and C-Level Team** <br/> *Management* | Kim and the C-Level management team utilize the digital twin model to make data-driven decisions, enhancing operational efficiency and predicting future challenges. This cutting-edge approach allows them to visualize the entire company's workflow, optimize performance, and strategically plan for long-term growth.|
+|![CEO](assets/ceo_management_kim.png)| **Kim Management Team** <br/> *Management* | Kim and the C-Level management team utilize the digital twin model to make data-driven decisions, enhancing operational efficiency and predicting future challenges. This cutting-edge approach allows them to visualize the entire company's workflow, optimize performance, and strategically plan for long-term growth.|
 |![Max](assets/cad_engineer_max.png)| **Max** <br/> *Product Development*  |  Max from Product Development provides the product CAD designs using CAD tools like Onshape. The CAD models are transferred in this case with the Omniverse Onshape connector. Alex makes sure that the unified bill of materials is matched with the product features.  |
 |![Zoe](assets/sales_marketing_zoe.png)| **Zoe** <br/> *Sales & Marketing*  | Zoe from Marketing is creating the product configurator used in sales pitches and on the web. She uses the Omniverse product configurator template with the CAD data provided by Max. |
 |![Elijah](assets/production_planner_eliah.png)| **Elijah** <br/> *Production Planning*  | As a Production Planner, Elijah optimizes manufacturing workflows and ensures resource availability, aligning production schedules with demand forecasts. He closely monitors quality and efficiency metrics to maintain seamless operations and meet delivery targets. |
@@ -24,9 +24,9 @@ Digital Twin Operations (TwinOps): The systematic process of creating, managing,
 
 
 ```mermaid
-graph TD;
-    C_Level_Management_Kim--Powerpoint, Draft and Excel for Product-->Designer_Mira;
-    C_Level_Management_Kim--Production Goal-->Production_Planner_Elija;
+graph TD;    
+    Management_Kim--Powerpoint, Draft and Excel for Product-->Designer_Mira;
+    Management_Kim--Production Goal-->Production_Planner_Elija;
     Designer_Mira--2D and 3D Design with Materials-->CAD_Engineer_Max;
     Designer_Mira--2D and 3D Design with Materials-->Marketing_Sales_Zoe;
     Production_Planner_Elija<--Interaction Logistics Plan and Production Plan-->Logistics_SupplyChain_Fred;

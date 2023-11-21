@@ -5,7 +5,7 @@
 - [The Industrial Metaverse](./industrial_metaverse/overview.md)
 
 - [TwinOps](./twinops/overview.md)
-	- [C-Level](./twinops/c_level.md)	
+	- [Management](./twinops/management.md)	
 	- [Design](./twinops/design.md)	
 	- [CAD](./twinops/cad.md)
 	- [Production](./twinops/production.md)
