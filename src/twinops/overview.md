@@ -25,9 +25,16 @@ Digital Twin Operations (TwinOps): The systematic process of creating, managing,
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    C_Level_Management_Kim--Powerpoint, Draft and Excel for Product-->Designer_Mira;
+    C_Level_Management_Kim--Production Goal-->Production_Planner_Elija;
+    Designer_Mira--2D and 3D Design with Materials-->CAD_Engineer_Max;
+    Designer_Mira--2D and 3D Design with Materials-->Marketing_Sales_Zoe;
+    Production_Planner_Elija<--Interaction Logistics Plan and Production Plan-->Logistics_SupplyChain_Fred;
+    Production_Planner_Elija<--Interaction Factory Plan and Production Plan-->BIM_Planner_Kai;
+    CAD_Engineer_Max--CAD Modell-->Production_Planner_Elija;
+    Marketing_Sales_Zoe--Estimated Customer Interests-->Production_Planner_Elija;
+    CAD_Engineer_Max--CAD Modell-->Logistics_SupplyChain_Fred;
+    Logistics_SupplyChain_Fred--Logistics Order-->Logistics_Team;
+    Production_Planner_Elija--Production Order-->Manufacturing_Team;
 ```
 
