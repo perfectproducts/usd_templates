@@ -23,4 +23,11 @@ Digital Twin Operations (TwinOps): The systematic process of creating, managing,
 |![BIM](assets/bim_kai.png)|  **Kai**  | The BIM planner is responsible for the structure of the factory hall. The factory plan is than send to the production planner and the logistic planner so they have knowledge on where they possibly can produce what. |
 
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
