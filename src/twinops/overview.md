@@ -19,6 +19,8 @@ Digital Twin Operations (TwinOps): The systematic process of creating, managing,
 |![Fred](assets/logistics_planner_fred.png)| **Fred** <br/> *Logistics & Supply Chain*  |  Fred from logistics planning has to plan the inner factory material flow as well and the supply chain for inbound logistics. |
 |![Manufacturing](assets/manufacturing_team.png)|  **Manufacturing Team**  | The production team efficiently executes Elijah's plans, utilizing monitor apps that source data from digital twin components to track progress and ensure adherence to the precise timelines and quality standards of the manufacturing process. |
 |![Logistics](assets/logistics_team.png)|  **Logistics Team**  | The logistics team executes Fred's detailed plans, using applications synced with digital twin models to track and adjust their activities. This ensures efficient material handling and precise coordination with production timelines, aligning seamlessly with broader company objectives. |
+|![Design](assets/design_mira.png)|  **Mira**  | The design team creates the product design based on the specification of the C-Level Management. After creating an approved design the CAD expert and the Marketing Team are using it to do their work. |
+|![BIM](assets/bim_kai.png)|  **Kai**  | The BIM planner is responsible for the structure of the factory hall. The factory plan is than send to the production planner and the logistic planner so they have knowledge on where they possibly can produce what. |
 
 
 
