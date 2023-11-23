@@ -5,8 +5,12 @@
 - [The Industrial Metaverse](./industrial_metaverse/overview.md)
 
 - [TwinOps](./twinops/overview.md)
+	- [Management](./twinops/management.md)	
+	- [Design](./twinops/design.md)	
+	- [CAD](./twinops/cad.md)
+	- [Production](./twinops/production.md)
+	- [Logistics](./twinops/logistics.md)
 
-	
 
 
 
