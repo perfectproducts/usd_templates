@@ -1,12 +1,12 @@
 # Product Configurator
 
-Product configurators are used by sales to help customers making informed buying decisions by visualizing the exact product configuration by selecting from different available options.
+Product configurators are used by Zoe from marketing and Greg from sales to help customers making informed buying decisions by visualizing the exact product configuration by selecting from different available options.
 
 See how Alex uses the Product Configurator extensions to help Zoe from Sales.
 
 ## Products
 
-First of all to show your products and their variations to potential customers you need to bring them into the SyncTwin Omniverse App. For that we prepared two products for you:
+To illustrate the use case we have prepared two products for you:
 
 1. **/src/cycle_demo/assets/products/product_P3_basicbike/product_P3_basicbike.usd**
 2. **/src/cycle_demo/assets/products/product_P2_unicycle/product_P2_unicycle.usd**
@@ -23,7 +23,7 @@ In the following chapter we are going to have a closer look at the product confi
 
 ## Product Configurator
 
-In this chapter we are going to explain and show how the configurator works based on an example. We are going to use the bicycle from the previous chapter together with the product configurator.
+We are going to create a product configurator for the cycle product. 
 
 1. **/src/cycle_demo/assets/products/product_P3_basicbike/product_P3_basicbike.usd**
 
